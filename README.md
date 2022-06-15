@@ -1,5 +1,5 @@
 
-### Hii there I'm Shubham Raut 👋
+### Hi there I'm Shubham Raut 👋
 
 
 - 🎓 I’m currently Persuing MSc.(CS) @Fergusson College,Pune.<br>

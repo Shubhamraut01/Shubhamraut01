@@ -4,5 +4,5 @@
 - 🚀 I’m currently Learning Salesforce Developer Path and have reached highest rank Ranger in TrailHead Platform. <br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   🎖️ checkout my TrailHead Profile: https://trailblazer.me/id/shubhamraut01
 - 📫 How to reach me: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📧email - shubhamrao12321@gmail.com <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📧 Email - shubhamrao12321@gmail.com <br>
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          💣 LinkedIn - https://www.linkedin.com/in/shubhamraut1

@@ -14,7 +14,7 @@
 <br>
 
 
-<br>
+
 - 📫 How to reach me: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📧 Email - shubhamrao12321@gmail.com <br>
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          💣 LinkedIn - https://www.linkedin.com/in/shubhamraut1

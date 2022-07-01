@@ -4,7 +4,7 @@
 
 - 🎓 I’m currently Persuing MSc.(CS) @Fergusson College,Pune.<br>
 
-![banner-main](https://user-images.githubusercontent.com/98621723/176942814-a5472eba-613d-45ae-b018-78d385771c56.jpg)
+
 
 - 🚀 I’m currently Learning Salesforce Developer Path and have reached highest rank Ranger in TrailHead Platform.
 

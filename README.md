@@ -2,7 +2,7 @@
 ### Hi there I'm Shubham Raut 👋
 
 
-- 🎓 I’m currently Persuing MSc.(CS) @Fergusson College,Pune.<br>
+- 🎓 I’m currently Persuing MSc.(CS) @Fergusson College,Pune.<br><br>
 - 🎨 checkout my UX Portfolio: https://uxfol.io/05cee3de
 <br>
 

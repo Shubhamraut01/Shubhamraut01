@@ -6,7 +6,6 @@
 - 🎨 checkout my UX Portfolio: https://uxfol.io/05cee3de
 <br>
 
-
 - 🚀 I’m currently Learning Salesforce Developer Path and have reached highest rank Ranger in TrailHead Platform.
 
 

@@ -3,7 +3,7 @@
 
 
 - 🎓 I’m currently Persuing MSc.(CS) @Fergusson College,Pune.<br><br>
-- 🎨 checkout my UX Portfolio: https://uxfol.io/05cee3de
+- 🎨 checkout my UX Portfolio: https://shubhamraut01.github.io/
 <br>
 
 - 🚀 I’m currently Learning Salesforce Developer Path and have reached highest rank Ranger in TrailHead Platform.

@@ -4,16 +4,7 @@
 
 - 🎓 I’m currently Persuing MSc.(CS) @Fergusson College,Pune.<br><br>
 - 🖥️ checkout my Portfolio: https://shubhamraut.me
-<br>
 
-- 🚀 I’m currently Learning Salesforce Developer Path and have reached highest rank Ranger in TrailHead Platform.
-
-
-
-
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   🎖️ checkout my TrailHead Profile: https://trailblazer.me/id/shubhamraut01
 <br>
 
 

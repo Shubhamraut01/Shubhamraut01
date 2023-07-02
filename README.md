@@ -13,6 +13,7 @@
 ---
 ### Connect with me 📝
 
+[<img align="left" alt="very active | Portfolio" height="40px" src="https://img.icons8.com/color/48/000000/globe.png"/>][portfolio]
 [<img align="left" alt="very active | LinkedIn" height="40px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
 [<img align="left" alt="active | Instagram" height="40px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
 [<img align="left" alt="active | Email" height="40px" src="https://img.icons8.com/fluency/48/000000/email-open.png" />][email]
@@ -52,6 +53,7 @@
 
 <br/>
 
+[portfolio]: https://shubhamraut.me
 [instagram]: https://www.instagram.com/shubhamrautxp
 [linkedin]: https://www.linkedin.com/in/shubhamrautpune/
 [email]: <mailto: shubhamrao12321@gmail.com>

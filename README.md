@@ -13,6 +13,7 @@
 ---
 ### Connect with me 📝
 
+[<img align="left" alt="very active | Website" height="40px" src="https://img.icons8.com/color/48/000000/website.png"/>][website]
 [<img align="left" alt="very active | LinkedIn" height="40px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
 [<img align="left" alt="active | Instagram" height="40px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
 [<img align="left" alt="active | Email" height="40px" src="https://img.icons8.com/fluency/48/000000/email-open.png" />][email]

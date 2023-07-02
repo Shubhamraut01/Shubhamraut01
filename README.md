@@ -9,7 +9,18 @@
 - ⚡ Hobbies: Web Development, Cycling, Trekking, Reading Books.
 - 🎮 Gaming: Enjoy playing games like Need For Speed and Assassin's Creed.
 
+---
+### Connect with me 📝
+<br/>
 
+
+[<img align="left" alt="very active | Portfolio" height="40px" src="https://img.icons8.com/color/48/000000/globe.png"/>][portfolio]
+[<img align="left" alt="very active | LinkedIn" height="40px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
+[<img align="left" alt="active | Instagram" height="40px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="active | Email" height="40px" src="https://img.icons8.com/fluency/48/000000/email-open.png" />][email]
+
+<br/>
+<br/>
 
 ---
 
@@ -34,18 +45,7 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 ![Android Studio](http://img.shields.io/badge/-Android%20Studio-55a630?style=for-the-badge&logo=android-studio&logoColor=ffffff)
 
----
-### Connect with me 📝
-<br/>
 
-
-[<img align="left" alt="very active | Portfolio" height="40px" src="https://img.icons8.com/color/48/000000/globe.png"/>][portfolio]
-[<img align="left" alt="very active | LinkedIn" height="40px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
-[<img align="left" alt="active | Instagram" height="40px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
-[<img align="left" alt="active | Email" height="40px" src="https://img.icons8.com/fluency/48/000000/email-open.png" />][email]
-
-<br/>
-<br/>
 
 
 ---

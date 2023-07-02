@@ -8,7 +8,7 @@
 - 👨‍💻 Interested in technologies like Cloud Computing, UI/UX, Frontend Development with React JS, and MERN Stack
 - 💪🏼 Motivated to learn, grow, and inspire as many as possible along the way.
 - ⚡ Hobbies: Web Development, Cycling, Trekking, Reading Books.
-- 🎮 Gaming: Enjoy playing games like Valorant and Assassin's Creed.
+- 🎮 Gaming: Enjoy playing games like Need For Speed and Assassin's Creed.
 
 ---
 ### Connect with me 📝
@@ -24,20 +24,22 @@
 
 ### Languages and Tools 🛠 
 
-
-![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
-![Mongo DB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![React](http://img.shields.io/badge/-react-3776AB?style=for-the-badge&logo=react&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Figma](http://img.shields.io/badge/-figma-23E44D27?style=for-the-badge&logo=figma&logoColor=ffffff)
+![express JS](http://img.shields.io/badge/-express-3776AB?style=for-the-badge&logo=express&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![Mysql](http://img.shields.io/badge/-mysql-3776AB?style=for-the-badge&logo=mysql&logoColor=ffffff)
+![Mongo DB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
+![Adobe XD](http://img.shields.io/badge/-Adobe%20XD-8a2846?style=for-the-badge&logo=adobe-xd&logoColor=ffffff)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=Bootstrap)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 ![Android Studio](http://img.shields.io/badge/-Android%20Studio-55a630?style=for-the-badge&logo=android-studio&logoColor=ffffff)
-![Adobe XD](http://img.shields.io/badge/-Adobe%20XD-8a2846?style=for-the-badge&logo=adobe-xd&logoColor=ffffff)
 
 ---
 

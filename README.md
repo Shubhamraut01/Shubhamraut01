@@ -24,17 +24,17 @@
 
 ### Languages and Tools 🛠 
 
-![React](http://img.shields.io/badge/-react-3776AB?style=for-the-badge&logo=react&logoColor=ffffff)
+![React](http://img.shields.io/badge/-react-87CEEB?style=for-the-badge&logo=react&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Figma](http://img.shields.io/badge/-figma-23E44D27?style=for-the-badge&logo=figma&logoColor=ffffff)
-![express JS](http://img.shields.io/badge/-express-3776AB?style=for-the-badge&logo=express&logoColor=ffffff)
+![Figma](http://img.shields.io/badge/-figma-FF00FF?style=for-the-badge&logo=figma&logoColor=ffffff)
+![express JS](http://img.shields.io/badge/-express-606060?style=for-the-badge&logo=express&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![Mysql](http://img.shields.io/badge/-mysql-3776AB?style=for-the-badge&logo=mysql&logoColor=ffffff)
 ![Mongo DB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
+![Python](http://img.shields.io/badge/-Python-ffcc00?style=for-the-badge&logo=python&logoColor=ffffff)
 ![Adobe XD](http://img.shields.io/badge/-Adobe%20XD-8a2846?style=for-the-badge&logo=adobe-xd&logoColor=ffffff)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=Bootstrap)

@@ -49,9 +49,11 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamraut01&langs_count=10&theme=dracula&layout=compact" alt="Zignake :: Top Langs" /></p>
 
 <br/>
-[linkedin]: https://www.linkedin.com/in/shubhamrautpune/
+
 [instagram]: https://www.instagram.com/shubhamrautxp
+[linkedin]: https://www.linkedin.com/in/shubhamrautpune/
 [email]: <mailto: shubhamrao12321@gmail.com>
+
 
 ---
 

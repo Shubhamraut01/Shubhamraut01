@@ -10,9 +10,7 @@
 - ⚡ Hobbies: Web Development, Cycling, Trekking, Reading Books.
 
 ---
-### Connect with me 📝
-<br/>
-
+### Connect with me 📝 
 
 [<img align="left" alt="very active | Portfolio" height="40px" src="https://img.icons8.com/color/48/000000/globe.png"/>][portfolio]
 [<img align="left" alt="very active | LinkedIn" height="40px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]

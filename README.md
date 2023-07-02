@@ -1,29 +1,21 @@
-# Hi there <img width="45px" src="https://camo.githubusercontent.com/52f613ba340da0234fa3754325112a6533af65a3/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f33623338386665303364613237316432363734666166383565623763336663642f74656e6f722e676966" />
+# Hi there I'm Shubham Raut  <img width="45px" src="https://camo.githubusercontent.com/52f613ba340da0234fa3754325112a6533af65a3/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f33623338386665303364613237316432363734666166383565623763336663642f74656e6f722e676966" />
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm Shubham Raut a Jr.Developer @Cloud.in
 
-- 🏢 Work: Jr. Developer
+- 🏢 Work: Jr. Developer @Cloud.in
 - 👨‍💻 Interested in technologies like Cloud Computing, UI/UX, Frontend Development with React JS, and MERN Stack
 - 💪🏼 Motivated to learn, grow, and inspire as many as possible along the way.
 - ⚡ Hobbies: Web Development, Cycling, Trekking, Reading Books.
 - 🎮 Gaming: Enjoy playing games like Need For Speed and Assassin's Creed.
 
----
-### Connect with me 📝
 
-[<img align="left" alt="very active | Portfolio" height="40px" src="https://img.icons8.com/color/48/000000/globe.png"/>][portfolio]
-[<img align="left" alt="very active | LinkedIn" height="40px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
-[<img align="left" alt="active | Instagram" height="40px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
-[<img align="left" alt="active | Email" height="40px" src="https://img.icons8.com/fluency/48/000000/email-open.png" />][email]
-
-<br/>
-<br/>
 
 ---
 
 ### Languages and Tools 🛠 
+<br/>
+
 
 ![React](http://img.shields.io/badge/-react-87CEEB?style=for-the-badge&logo=react&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
@@ -41,6 +33,20 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=Bootstrap)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 ![Android Studio](http://img.shields.io/badge/-Android%20Studio-55a630?style=for-the-badge&logo=android-studio&logoColor=ffffff)
+
+---
+### Connect with me 📝
+<br/>
+
+
+[<img align="left" alt="very active | Portfolio" height="40px" src="https://img.icons8.com/color/48/000000/globe.png"/>][portfolio]
+[<img align="left" alt="very active | LinkedIn" height="40px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
+[<img align="left" alt="active | Instagram" height="40px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="active | Email" height="40px" src="https://img.icons8.com/fluency/48/000000/email-open.png" />][email]
+
+<br/>
+<br/>
+
 
 ---
 

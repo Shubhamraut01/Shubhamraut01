@@ -32,6 +32,7 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Figma](http://img.shields.io/badge/-figma-FF00FF?style=for-the-badge&logo=figma&logoColor=ffffff)
 ![express JS](http://img.shields.io/badge/-express-606060?style=for-the-badge&logo=express&logoColor=ffffff)
+![Next.js](http://img.shields.io/badge/-Next.js_with_Express-000000?style=for-the-badge&logo=next.js&logoColor=ffffff&labelColor=000000)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![Mysql](http://img.shields.io/badge/-mysql-3776AB?style=for-the-badge&logo=mysql&logoColor=ffffff)

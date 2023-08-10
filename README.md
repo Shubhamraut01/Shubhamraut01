@@ -50,11 +50,16 @@
 ---
 
 
-<h2> Github Statistics 📈 </h2>
+### Github Statistics 📈 
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=Shubhamraut01&show_icons=true&theme=dracula" alt="Zignake :: Profile Stats" /></p>
+
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=Shubhamraut01&show_icons=true&theme=dracula&cache_seconds=86400" alt="Zignake :: Profile Stats" /></p>
+
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamraut01&langs_count=10&theme=dracula&layout=compact" alt="Zignake :: Top Langs" /></p>
+
+<br/>
 
 <br/>
 

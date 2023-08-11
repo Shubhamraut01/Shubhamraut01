@@ -4,7 +4,7 @@
 
 
 - 🏢 Work: Jr. Developer @Cloud.in
-- 🧑🏻‍🎓 Education: MSc. CS & BSc. CS from Fergusson College, Pune
+- 🧑🏻‍🎓 Education: MSc. CS & BSc. CS from Fergusson College, Pune, India .
 - 👨‍💻 Interested in technologies like Cloud Computing, UI/UX, Frontend Development with React JS, and MERN Stack
 - 💪🏼 Motivated to learn, grow, and inspire as many as possible along the way.
 - ⚡ Hobbies: Web Development, Cycling, Trekking, Reading Books.

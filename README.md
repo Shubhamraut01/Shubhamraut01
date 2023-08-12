@@ -1,4 +1,5 @@
-# Hi there I'm Shubham Raut  <img width="45px" src="https://camo.githubusercontent.com/52f613ba340da0234fa3754325112a6533af65a3/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f33623338386665303364613237316432363734666166383565623763336663642f74656e6f722e676966" />
+# Hi there I'm Shubham Raut      <img id="preview" src="https://komarev.com/ghpvc/?username=Shubhamraut01&color=grey">
+
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
@@ -75,15 +76,9 @@
 ### Github Statistics 📈 
 
 
+ ![Profile Stats](https://github-readme-stats.vercel.app/api?username=Shubhamraut01&show_icons=true&theme=dracula&cache_seconds=86400)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamraut01&langs_count=10&theme=dracula&layout=compact) 
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=Shubhamraut01&show_icons=true&theme=dracula&cache_seconds=86400" alt="Zignake :: Profile Stats" /></p>
 
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamraut01&langs_count=10&theme=dracula&layout=compact" alt="Zignake :: Top Langs" /></p>
-
-<br/>
-
-<br/>
 
 [portfolio]: https://shubhamraut.me
 [instagram]: https://www.instagram.com/shubhamrautxp

@@ -29,6 +29,7 @@
 
 ![React](http://img.shields.io/badge/-react-87CEEB?style=for-the-badge&logo=react&logoColor=ffffff)
 ![JavaScript](http://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+![TypeScript](http://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=ffffff) 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
 ![Ant Design](http://img.shields.io/badge/-Ant%20Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=ffffff)
@@ -39,7 +40,6 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![Postman](http://img.shields.io/badge/-Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=ffffff)
-![express JS](http://img.shields.io/badge/-express-606060?style=for-the-badge&logo=express&logoColor=ffffff)
 ![Next.js](http://img.shields.io/badge/-Next.js_with_Express-000000?style=for-the-badge&logo=next.js&logoColor=ffffff&labelColor=000000)
 ![Mysql](http://img.shields.io/badge/-mysql-3776AB?style=for-the-badge&logo=mysql&logoColor=ffffff)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -51,12 +51,13 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=Bootstrap)
 ![Tailwind CSS](http://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
-![Android Studio](http://img.shields.io/badge/-Android%20Studio-55a630?style=for-the-badge&logo=android-studio&logoColor=ffffff)
-![FastAPI](http://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=ffffff)
 ![VS Code](http://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 ![Node.js](http://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=ffffff)
+
+<!-- ![FastAPI](http://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=ffffff) -->
+<!-- ![express JS](http://img.shields.io/badge/-express-606060?style=for-the-badge&logo=express&logoColor=ffffff) -->
+<!-- ![Android Studio](http://img.shields.io/badge/-Android%20Studio-55a630?style=for-the-badge&logo=android-studio&logoColor=ffffff) -->
 <!-- ![Django](http://img.shields.io/badge/-Django-092e20?style=for-the-badge&logo=django&logoColor=ffffff) -->
-<!-- ![TypeScript](http://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=ffffff) -->
 <!-- ![Material-UI](http://img.shields.io/badge/-Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=ffffff) -->
 <!-- ![Microsoft Azure](http://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=ffffff) -->
 <!-- ![Google Cloud Platform](http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=for-the-badge&logo=google-cloud&logoColor=ffffff) -->

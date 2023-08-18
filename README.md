@@ -75,8 +75,12 @@
 
 ### Github Statistics 📈 
 
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=Shubhamraut01&show_icons=true&theme=default_repocard&cache_seconds=86400)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Shubhamraut01&theme=default_repocard)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamraut01&langs_count=10&theme=default_repocard&layout=compact)
 
- ![Profile Stats](https://github-readme-stats.vercel.app/api?username=Shubhamraut01&show_icons=true&theme=dracula&cache_seconds=86400)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamraut01&langs_count=10&theme=dracula&layout=compact) 
+
+
 
 
 

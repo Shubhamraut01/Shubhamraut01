@@ -1,4 +1,4 @@
-# Hi there I'm Shubham Raut      <img id="preview" src="https://komarev.com/ghpvc/?username=Shubhamraut01&color=grey">
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> Hi there I'm Shubham Raut      <img id="preview" src="https://komarev.com/ghpvc/?username=Shubhamraut01&color=grey">
 
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />

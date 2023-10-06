@@ -41,6 +41,7 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![Postman](http://img.shields.io/badge/-Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=ffffff)
+![express JS](http://img.shields.io/badge/-express-606060?style=for-the-badge&logo=express&logoColor=ffffff) 
 ![Next.js](http://img.shields.io/badge/-Next.js_with_Express-000000?style=for-the-badge&logo=next.js&logoColor=ffffff&labelColor=000000)
 ![Mysql](http://img.shields.io/badge/-mysql-3776AB?style=for-the-badge&logo=mysql&logoColor=ffffff)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -56,7 +57,7 @@
 ![Node.js](http://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=ffffff)
 
 <!-- ![FastAPI](http://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=ffffff) -->
-<!-- ![express JS](http://img.shields.io/badge/-express-606060?style=for-the-badge&logo=express&logoColor=ffffff) -->
+
 <!-- ![Android Studio](http://img.shields.io/badge/-Android%20Studio-55a630?style=for-the-badge&logo=android-studio&logoColor=ffffff) -->
 <!-- ![Django](http://img.shields.io/badge/-Django-092e20?style=for-the-badge&logo=django&logoColor=ffffff) -->
 <!-- ![Material-UI](http://img.shields.io/badge/-Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=ffffff) -->

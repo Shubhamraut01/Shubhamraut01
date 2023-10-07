@@ -82,7 +82,7 @@
 
 
 
-
+[![An image of @shubhamraut01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shubhamraut01)](https://holopin.io/@shubhamraut01)
 
 
 

@@ -45,7 +45,6 @@
 ![express JS](http://img.shields.io/badge/-express-606060?style=for-the-badge&logo=express&logoColor=ffffff)
 ![Mysql](http://img.shields.io/badge/-mysql-3776AB?style=for-the-badge&logo=mysql&logoColor=ffffff)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Salesforce](http://img.shields.io/badge/-Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=ffffff)
 ![Vite](http://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=ffffff)
 ![Mongo DB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Python](http://img.shields.io/badge/-Python-ffcc00?style=for-the-badge&logo=python&logoColor=ffffff)

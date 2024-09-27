@@ -4,11 +4,10 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 
-- 🏢 Work: Jr. Developer @Cloud.in
+- 🏢 Work: Software Developer @Cloud.in
 - 🧑🏻‍🎓 Education: MSc. CS & BSc. CS from Fergusson College, Pune, India.
-- 👨‍💻 Interests: Cloud Computing, Full Stack Development, User Interface and User experience Designing.
+- 👨‍💻 Interests: Cloud Computing, AI/ML, Full Stack Development, User Interface and User experience Designing.
 - 💪🏼 Motivated to learn, grow, and inspire as many as possible along the way.
-- ⚡ Hobbies: Web Development, Cycling, Trekking, Reading Books.
 
 
 ---

@@ -10,16 +10,18 @@
 - 💪🏼 Motivated to learn, grow, and inspire as many as possible along the way.
 - ⚡ Hobbies: Web Development, Cycling, Trekking, Reading Books.
 
+
 ---
-### Connect with me 📝 
 
-[<img align="left" alt="very active | Portfolio" height="40px" src="https://img.icons8.com/color/48/000000/globe.png"/>][portfolio]
-[<img align="left" alt="very active | LinkedIn" height="40px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
-[<img align="left" alt="active | Instagram" height="40px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
-[<img align="left" alt="active | Email" height="40px" src="https://img.icons8.com/fluency/48/000000/email-open.png" />][email]
+### Certifications 📜
 
-<br/>
-<br/>
+
+<p align="left">
+  <img src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer Associate" width="120" height="120"/>
+  <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="120" height="120"/>
+  <img src="https://images.credly.com/size/680x680/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner" width="120" height="120"/>
+  <img src="https://images.credly.com/size/680x680/images/834f2c8d-2d2c-4ce7-9580-02a351c31626/image.png" alt="AWS Certified AI Practitioner" width="120" height="120"/>
+</p>
 
 ---
 
@@ -86,7 +88,7 @@
 
 
 
-[![An image of @shubhamraut01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shubhamraut01)](https://holopin.io/@shubhamraut01)
+<!--[![An image of @shubhamraut01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shubhamraut01)](https://holopin.io/@shubhamraut01)-->
 
 
 

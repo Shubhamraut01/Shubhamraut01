@@ -30,6 +30,7 @@
 
 
 ![React](http://img.shields.io/badge/-react-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
+![LangChain](http://img.shields.io/badge/-LangChain-000000?style=for-the-badge&logo=langchain&logoColor=ffffff)
 ![JavaScript](http://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
 ![TypeScript](http://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=ffffff) 
 ![Ant Design](http://img.shields.io/badge/-Ant%20Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=ffffff)

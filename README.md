@@ -37,7 +37,6 @@
 
 #### Languages, Frameworks & Tools
 
-![React](http://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
 ![LangChain](http://img.shields.io/badge/-LangChain-000000?style=for-the-badge&logo=langchain&logoColor=ffffff)
 ![JavaScript](http://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
 ![TypeScript](http://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=ffffff)
@@ -47,10 +46,10 @@
 
 #### Frontend & UI
 
+![React](http://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
 ![Next.js](http://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=ffffff)
 ![Vite](http://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=ffffff)
 ![Tailwind CSS](http://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=Bootstrap)
 ![Chakra UI](http://img.shields.io/badge/-Chakra%20UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=ffffff)
 ![Ant Design](http://img.shields.io/badge/-Ant%20Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=ffffff)
 ![Figma](http://img.shields.io/badge/-Figma-FF00FF?style=for-the-badge&logo=figma&logoColor=ffffff)

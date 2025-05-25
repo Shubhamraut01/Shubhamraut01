@@ -5,7 +5,7 @@
 
 
 - 🏢 Work: Software Developer @Cloud.in
-- 🧑🏻‍🎓 Education: MSc. CS & BSc. CS from Fergusson College, Pune, India.
+- 🧑🏻‍🎓 Education: Master's in Computer Science from Fergusson College, Pune, India.
 - 👨‍💻 Interests: Cloud Computing, AI/ML, Full Stack Development, User Interface and User experience Designing.
 - 💪🏼 Motivated to learn, grow, and inspire as many as possible along the way.
 

@@ -99,7 +99,7 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/shubhamrautpune/" target="_blank">
+  <a href="https://www.linkedin.com/in/shubhamraut01/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Shubham%20Raut-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;

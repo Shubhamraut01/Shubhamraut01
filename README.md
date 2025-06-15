@@ -38,6 +38,7 @@
 #### Languages, Frameworks & Tools
 
 ![LangChain](http://img.shields.io/badge/-LangChain-000000?style=for-the-badge&logo=langchain&logoColor=ffffff)
+![Ollama](http://img.shields.io/badge/-Ollama-ffffff?style=for-the-badge&logo=ollama&logoColor=000000)
 ![JavaScript](http://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
 ![TypeScript](http://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-ffcc00?style=for-the-badge&logo=python&logoColor=ffffff)

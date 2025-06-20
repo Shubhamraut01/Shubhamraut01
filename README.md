@@ -60,6 +60,7 @@
 ![Node.js](http://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=ffffff)
 ![Express](http://img.shields.io/badge/-Express-606060?style=for-the-badge&logo=express&logoColor=ffffff)
 ![FastAPI](http://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=ffffff)
+![NestJS](http://img.shields.io/badge/-Nest.js-white?style=for-the-badge&logo=nestjs&logoColor=red)
 
 #### Databases & Cloud
 

@@ -82,6 +82,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![Postman](http://img.shields.io/badge/-Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=ffffff)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-white?style=for-the-badge&logo=terraform&logoColor=blue)
 
 <p align="left">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

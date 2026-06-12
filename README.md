@@ -37,8 +37,6 @@
 
 Built a cloud governance platform that helps teams monitor, manage and gain visibility into AWS infrastructure, security posture and operational health.
 
-**Tech:** AWS • React • FastAPI • PostgreSQL
-
 🔗 https://niyantrac.com
 
 ---
@@ -47,8 +45,6 @@ Built a cloud governance platform that helps teams monitor, manage and gain visi
 **AI-Powered Assessment & Hiring Platform**
 
 Built an intelligent assessment platform that streamlines candidate evaluation, automated scoring and hiring workflows using AI.
-
-**Tech:** AI Agents • RAG • FastAPI • React • AWS
 
 🔗 https://evalix.ai
 
@@ -88,18 +84,6 @@ Developed scalable multi-tenant SaaS applications from concept to production.
 - Subscription workflows
 - Usage analytics & monitoring
 
----
-
-### ⚙️ Cloud Automation & Observability
-
-Built systems for cloud automation, monitoring and operational visibility.
-
-**Highlights**
-- CI/CD pipelines
-- Infrastructure automation
-- CloudFront analytics
-- Monitoring & alerting
-- Cost and usage insights
 
 <p align="left">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

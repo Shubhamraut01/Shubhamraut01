@@ -30,39 +30,76 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-## 🚢 Things I've Shipped
+## 🚢 Things I've Built
 
-### 🌐 Niyantra
+### 🌐 Niyantrac
+**Cloud Governance & Infrastructure Visibility Platform**
 
-**Cloud Governance Platform**
+Built a cloud governance platform that helps teams monitor, manage and gain visibility into AWS infrastructure, security posture and operational health.
 
-Manage AWS infrastructure with confidence through governance, visibility, compliance and operational controls.
+**Tech:** AWS • React • FastAPI • PostgreSQL
 
 🔗 https://niyantrac.com
 
+---
+
 ### 🤖 Evalix AI
+**AI-Powered Assessment & Hiring Platform**
 
-**AI-Powered Assessment Platform**
+Built an intelligent assessment platform that streamlines candidate evaluation, automated scoring and hiring workflows using AI.
 
-Modern candidate evaluation and hiring workflows powered by AI.
+**Tech:** AI Agents • RAG • FastAPI • React • AWS
 
 🔗 https://evalix.ai
 
-### ☁️ AWS Marketplace Applications
+---
 
-Built and maintained production-ready cloud applications available through AWS Marketplace.
+### ☁️ AWS Marketplace Solutions
 
-### 🔍 Production AI & RAG Systems
+Designed, deployed and maintained production-ready cloud applications distributed through AWS Marketplace.
 
-Designed and deployed retrieval pipelines, vector search architectures and LLM-powered applications.
+**Highlights**
+- Cloud-native architecture
+- Automated deployments
+- Infrastructure as Code
+- Secure multi-account AWS environments
 
-### 🚀 Multi-Tenant SaaS Platforms
+---
 
-Developed scalable SaaS products with tenant isolation, automation and cloud-native infrastructure.
+### 🔍 Production AI Systems
 
-### ⚙️ Cloud Automation & DevOps Workflows
+Built and deployed AI-powered applications leveraging Retrieval-Augmented Generation (RAG), vector search and agentic workflows.
 
-Implemented CI/CD pipelines, infrastructure automation, monitoring and operational tooling on AWS.
+**Highlights**
+- Knowledge retrieval systems
+- Enterprise search experiences
+- LLM-powered automation
+- Agent orchestration workflows
+
+---
+
+### 🚀 SaaS Platforms
+
+Developed scalable multi-tenant SaaS applications from concept to production.
+
+**Highlights**
+- Authentication & authorization
+- Tenant isolation
+- Subscription workflows
+- Usage analytics & monitoring
+
+---
+
+### ⚙️ Cloud Automation & Observability
+
+Built systems for cloud automation, monitoring and operational visibility.
+
+**Highlights**
+- CI/CD pipelines
+- Infrastructure automation
+- CloudFront analytics
+- Monitoring & alerting
+- Cost and usage insights
 
 <p align="left">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

@@ -1,20 +1,27 @@
+### 👨‍💻 About Me
 
-
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=00CED1&size=40&height=200&width=800&lines=Hey,+I'm+Shubham+Raut+%F0%9F%91%8B;Software+Developer+@Cloud.in;Cloud,+AI/ML+%26+Full+Stack+Enthusiast;Welcome+to+my+GitHub!" />
-</p>
+* 🏢 Software Developer at **Cloud.in**
+* ☁️ Building scalable applications on **AWS**
+* 🤖 Exploring **AI Agents, RAG Systems & Cloud Architectures**
+* 🚀 Love turning ideas into production-ready products
+* 🔓 Open Source Contributor to **Strands Agents SDK**
+* 🌱 Currently learning more about **MCP, Agentic AI & System Design**
+* ♟️ Chess, swimming, startups and technology keep me busy outside work
 
 <p align="left">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
+### 🚀 What I'm Working On
 
-### 👨‍💻 About Me
-
-- 🏢 **Software Developer** at [Cloud.in](https://www.cloud.in)
-- 🎓 **Master's in Computer Science** from Fergusson College, Pune, India
-- 💡 Passionate about **Cloud Computing**, **AI/ML**, **Full Stack Development**, and **UI/UX Design**
-- 💪 Constantly learning, building, and aiming to **inspire** others along the way
+```text
+☁️ Cloud Native Applications
+🤖 AI Agents & Multi-Agent Systems
+🔍 RAG & Search Architectures
+⚡ FastAPI & React Applications
+🚀 SaaS Products
+🛠️ Open Source Contributions
+```
 
 <p align="left">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

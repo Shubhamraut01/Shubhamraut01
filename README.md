@@ -93,10 +93,10 @@ Developed scalable multi-tenant SaaS applications from concept to production.
 
 <p align="left">
   <img src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="100" title="AWS Developer Associate" />
+  <img src="https://images.credly.com/images/0e717fa5-93a1-4203-964c-051b4734b7eb/blob" width="100" title="AWS AI Practitioner (Early Adopter)" />
   <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" title="AWS Cloud Practitioner" />
   <img src="https://images.credly.com/size/680x680/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="100" title="AWS AI Practitioner" />
   <img src="https://images.credly.com/size/680x680/images/834f2c8d-2d2c-4ce7-9580-02a351c31626/image.png" width="100" title="AWS AI Practitioner (Early Adopter)" />
-  <img src="https://images.credly.com/images/0e717fa5-93a1-4203-964c-051b4734b7eb/blob" width="100" title="AWS AI Practitioner (Early Adopter)" />
 </p>
 
 <p align="left">

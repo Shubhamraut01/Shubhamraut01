@@ -146,16 +146,6 @@ Developed scalable multi-tenant SaaS applications from concept to production.
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubhamraut01&show_icons=true&theme=default_repocard&cache_seconds=86400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamraut01&langs_count=10&layout=compact&theme=default_repocard" />
-</p>
-
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
 
 ## 🌐 Connect With Me
 
